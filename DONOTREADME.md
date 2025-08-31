@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-script-kiddie
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on NOBODY lol
 - 😄 Pronouns: he, him, his, **trash**
 
